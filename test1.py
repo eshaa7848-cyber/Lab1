@@ -1,1 +1,1 @@
-print("Hello jaaz")
+print("mera pyara chuchu")
